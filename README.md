@@ -6,3 +6,6 @@ Ganesh Ovhal
 
 # Student 
 Good student
+
+# Marks
+98
